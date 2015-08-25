@@ -9,7 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Thiago Rossato"]
   spec.email         = ["rossato.rd.test01@gmail.com"]
 
-  spec.summary       = %q{Salesforce contact sync}
+  spec.summary       = %q{Salesforce contact sync summary}
+  spec.description   = %q{Salesforce contact sync description}
   spec.homepage      = "https://github.com/rossato-rd-test/salesforce_contact_sync."
   spec.license       = "MIT"
 
