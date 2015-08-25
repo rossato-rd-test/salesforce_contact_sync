@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'bundler
-'
+gem 'bundler' 
+
 # Defines the ruby version (installed on my Mac)
 ruby '2.2.2'
 
